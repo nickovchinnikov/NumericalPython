@@ -9,3 +9,5 @@
 ## [4. Nonlinear Least Square Problems](https://github.com/nickovchinnikov/NumericalPython/blob/master/5%20Optimization/4%20Nonlinear%20Least%20Square%20Problems.ipynb)
 
 ## [5. Constrained Optimization](https://github.com/nickovchinnikov/NumericalPython/blob/master/5%20Optimization/5%20Constrained%20Optimization.ipynb)
+
+## [6. Linear Programming](https://github.com/nickovchinnikov/NumericalPython/blob/master/5%20Optimization/6%20Linear%20Programming.ipynb)
