@@ -10,3 +10,5 @@
 ## [4. Equation Solving](https://github.com/nickovchinnikov/NumericalPython/tree/master/4%20Equation%20Solving)
 
 ## [5. Optimization](https://github.com/nickovchinnikov/NumericalPython/tree/master/5%20Optimization)
+
+## [6. Interpolation](https://github.com/nickovchinnikov/NumericalPython/tree/master/6%20Interpolation)
