@@ -8,6 +8,8 @@ Books that I also used to explaine examples:
 
 [Numerical Linear Algebra](https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617/ref=sr_1_1?keywords=numerical+linear+algebra&qid=1640847968&sprefix=numerical+line%2Caps%2C227&sr=8-1)
 
+[Linear Algebra and Learning from Data](https://www.amazon.com/Linear-Algebra-Learning-Gilbert-Strang/dp/0692196382/ref=sr_1_1?keywords=linear+algebra+and+learning+from+data&qid=1641207845&sprefix=linear+algebra+and+%2Caps%2C233&sr=8-1)
+
 ## Content:
 
 ## [1.  Numpy intro](https://github.com/nickovchinnikov/NumericalPython/tree/master/1%20Numpy%20intro)
@@ -21,3 +23,5 @@ Books that I also used to explaine examples:
 ## [5. Optimization](https://github.com/nickovchinnikov/NumericalPython/tree/master/5%20Optimization)
 
 ## [6. Interpolation](https://github.com/nickovchinnikov/NumericalPython/tree/master/6%20Interpolation)
+
+## [7. Integration](https://github.com/nickovchinnikov/NumericalPython/tree/master/7%20Integration)
