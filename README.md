@@ -25,3 +25,5 @@ Books that I also used to explaine examples:
 ## [6. Interpolation](https://github.com/nickovchinnikov/NumericalPython/tree/master/6%20Interpolation)
 
 ## [7. Integration](https://github.com/nickovchinnikov/NumericalPython/tree/master/7%20Integration)
+
+## [8. Ordinary Differential Equations](https://github.com/nickovchinnikov/NumericalPython/tree/master/8%20Ordinary%20Differential%20Equations)
